@@ -27,7 +27,7 @@ Mobile.tap(findTestObject('Application/API Demos/Cloning'), 0)
 
 Mobile.tap(findTestObject('Application/API Demos/Run'), 0)
 
-WebUI.delay(5)
+WebUI.delay(4)
 
 Mobile.closeApplication()
 
